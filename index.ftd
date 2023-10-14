@@ -5,9 +5,9 @@
 -- ds.page:
 sidebar: false
 blog: true
-site-name: Sayak
+site-name: Ishabrato
 
--- landing.hero-with-image: Hi! I am Sayak
+-- landing.hero-with-image: Hi! I am Ishabrato
 link: /
 cta-primary: Hire me
 cta-primary-link: /
@@ -15,9 +15,9 @@ cta-secondary: How it works
 cta-secondary-link: /
 image: $assets.files.images.photo.jpg
 
-I'm an India based developer with a goal-driven creative mindset and passion for learning and innovating.
+I'm an India based developer currently pursuing BCA.
 
-Besides, I always opt for oppurtunities where I can solve problems with my knowledge and coding skills.
+Besides, I always opt for opportunities where I can solve problems with my knowledge and coding skills.
 
 
 -- end: ds.page
